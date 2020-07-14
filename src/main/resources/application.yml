@@ -4,3 +4,5 @@ server:
 logging:
   level:
     org.springframework.web: DEBUG
+  file:
+    path: "../logs/demo"
